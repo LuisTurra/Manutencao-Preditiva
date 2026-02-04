@@ -85,13 +85,13 @@ O destaque do projeto é o **dashboard interativo em Streamlit** que simula moni
     venv\Scripts\activate     
 
 3. Instale as dependências:bash
-
+    ```bash
     pip install -r requirements.txt
 
 4. Rode os notebooks para gerar o modelo (se necessário):Abra notebooks/02_model_training.ipynb  e execute todas as células.
 
 5. Inicie o dashboard:bash
-
+    ```bash
     streamlit run app.py
 
 ## Deploy ## 
