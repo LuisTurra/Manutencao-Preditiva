@@ -7,7 +7,7 @@ import os
 from streamlit_autorefresh import st_autorefresh
 
 # Carrega o melhor modelo
-model_path = 'C:/Users/Microsoft/Desktop/Projects/Python Projects/Manutencao-Preditiva/notebooks/model/best_model.pkl'
+model_path = 'notebooks/model/best_model.pkl'
 
 if not os.path.exists(model_path):
     st.error("🚨 Modelo não encontrado! Rode o notebook de treinamento para gerar 'best_model.pkl'.")
