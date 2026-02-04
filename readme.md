@@ -104,7 +104,8 @@ Matplotlib, Seaborn, Plotly
 Streamlit + streamlit-autorefresh
 Joblib para salvar modelo
 
-Por que este projeto se destaca no portfólio?Pipeline completo: EDA → modelagem comparativa → deploy interativo.
+## Por que este projeto?
+Pipeline completo: EDA → modelagem comparativa → deploy interativo.
 Foco em impacto de negócio (manutenção preditiva).
 Dashboard realista e visualmente atraente (gauges, auto-refresh, histórico).
 Boas práticas: separação de concerns, código limpo, persistência com session_state.
